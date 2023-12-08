@@ -1,0 +1,16 @@
+ikon {
+  float: left; 
+  width : 80px; 
+  height: 80px; 
+  margin-right: 7px;
+  }
+
+.textsmall {
+  font-size: 14px;
+  text-align: center;
+  }
+  
+.textlarge {
+  font-size: 14px;
+  font-weight: bold;
+  }
